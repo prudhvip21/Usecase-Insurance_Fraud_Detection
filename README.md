@@ -19,3 +19,7 @@ Accuracy between about 0.74 and 0.81 in the saved notebook output.
 ## Data
 
 Insurance claims dataset, included.
+
+## Earlier versions
+
+The `earlier-version/` folder keeps files from earlier versions of this project (Insurance-Data-Tale) that differ from the files above.
